@@ -1,6 +1,6 @@
 ## Hire our team to build your next app
 
-If you want to build a Firebase app, hire the experts. We maintain one of the most popular open source Firebase projects around with over 1k Github stars and tens of thousands of users. 
+If you want to build a Firebase app, hire the experts. We maintain one of the most popular open source Firebase projects around with over 1k Github stars ⭐⭐⭐ and **hundreds of thousands of users**. 
 
 ### Our skills
 
@@ -13,6 +13,7 @@ If you want to build a Firebase app, hire the experts. We maintain one of the mo
 - Over 6 years experience working with Firebase
 - Experience Scaling to millions of monthly users
 - Firebase data optimisation
+- Social apps
 - Real-time messaging
 - VoIP & WebRTC
 - XMPP Messaging
@@ -27,7 +28,11 @@ If you want to build a Firebase app, hire the experts. We maintain one of the mo
 
 ### Why us?
 
-We are experts with Firebase. We have a proven track record of writing efficient, well designed code. All of our code is available on Github for you to review. Our work speaks for us. We have specific technical skills at building realtime apps and specialise in social and commuincation apps. We will build your app on time and within budget. Get a quote by contacting us below. 
+We are **experts with Firebase**. We have a proven track record of writing **efficient, well designed code**. All of our code is available on Github for you to review. Our work speaks for us. 
+
+Chat SDK is the most popular messaging framework for Firebase and has **over 100k downloads to date**. 
+
+We have specific technical skills at building realtime apps and specialise in social and commuincation apps. **We will build your app on time and within budget**. Get a quote by contacting us below. 
 
 ### Get a quote for your next project now
 
