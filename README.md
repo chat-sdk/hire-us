@@ -44,7 +44,7 @@ We have specific technical skills at building realtime apps and specialise in so
 
 ![Ben](https://raw.githubusercontent.com/chat-sdk/dev/master/img/benc.png)
 
-- **Ben **
+- **Ben**
 - Senior developer (founder)
 - 10+ years development experience
 - iOS, Android, JavaScript, PHP, HTML, CSS
@@ -52,7 +52,7 @@ We have specific technical skills at building realtime apps and specialise in so
 
 ![Pepe](https://raw.githubusercontent.com/chat-sdk/dev/master/img/pepec.png)
 
-- **Pepe **
+- **Pepe**
 - Senior developer
 - 10+ years development experience
 - iOS, Android, JavaScript, Node.js, HTML, CSS
