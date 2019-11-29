@@ -64,6 +64,7 @@ We've developed many apps over the years. Here are some of our favourites:
 - Full app development
 
 **[Elixxir](https://elixxir.io/)** 
+
 <img style="float: right" src="https://github.com/chat-sdk/dev/blob/master/img/elixxir.png">
 
 - Blockchain
