@@ -5,10 +5,10 @@ If you want to build a Firebase app, hire the experts. We maintain one of the mo
 ### Our skills
 
 - Full Stack development
-  - iOS (Swift/Objective C)
-  - Android
-  - Web
-  - Node.js
+- **iOS:** Swift, Objective C
+- **Android**
+- **Web:** JavaScript, CSS, HTML, Angular, React
+- **Server:** Node.js, PHP, ejabberd, OpenFire
 - Firebase Realtime database and Firestore
 - Over 6 years experience working with Firebase
 - Experience Scaling to millions of monthly users
