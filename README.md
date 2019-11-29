@@ -44,24 +44,27 @@ We have specific technical skills at building realtime apps and specialise in so
 
 ![Ben](https://raw.githubusercontent.com/chat-sdk/dev/master/img/benc.png)
 
-- Ben: Senior developer (founder)
-	- 10+ years development experience
-	- iOS, Android, JavaScript, PHP, HTML, CSS
-	- [LinkedIn](https://www.linkedin.com/in/ben-smiley/), [Github](https://github.com/bensmiley), [Stack Overflow](https://stackoverflow.com/users/997293/ben-smiley)
+- **Ben **
+- Senior developer (founder)
+- 10+ years development experience
+- iOS, Android, JavaScript, PHP, HTML, CSS
+- [LinkedIn](https://www.linkedin.com/in/ben-smiley/), [Github](https://github.com/bensmiley), [Stack Overflow](https://stackoverflow.com/users/997293/ben-smiley)
 
 ![Pepe](https://raw.githubusercontent.com/chat-sdk/dev/master/img/pepec.png)
 
-- Pepe: Senior developer
-	- 10+ years development experience
-	- iOS, Android, JavaScript, Node.js, HTML, CSS
-	- [LinkedIn](https://www.linkedin.com/in/pepebecker/), [Github](https://github.com/pepebecker), [Stack Overflow](https://stackoverflow.com/cv/pepebecker)
+- **Pepe **
+- Senior developer
+- 10+ years development experience
+- iOS, Android, JavaScript, Node.js, HTML, CSS
+- [LinkedIn](https://www.linkedin.com/in/pepebecker/), [Github](https://github.com/pepebecker), [Stack Overflow](https://stackoverflow.com/cv/pepebecker)
 
 ![Conrad](https://raw.githubusercontent.com/chat-sdk/dev/master/img/conradc.png)
 
-- Conrad Martin: developer
-	- 2 years development experience
-	- Android 	
-	- [Github](https://github.com/thecmart)
+- **Conrad**
+- Android Developer
+- 2 years development experience
+- Android 	
+- [Github](https://github.com/thecmart)
 
 ### Our Projects
 
