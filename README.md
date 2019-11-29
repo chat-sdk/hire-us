@@ -63,7 +63,8 @@ We've developed many apps over the years. Here are some of our favourites:
 - Winner of best app by [Apps in Antwerp](https://www.antwerpen.be/nl/overzicht/apps-from-antwerp/detail/c-r-een-communicatie-app-voor-bestuurders)
 - Full app development
 
-**[Elixxir](https://elixxir.io/)** <img style="float: right" src="https://github.com/chat-sdk/dev/blob/master/img/elixxir.png">
+**[Elixxir](https://elixxir.io/)** 
+<img style="float: right" src="https://github.com/chat-sdk/dev/blob/master/img/elixxir.png">
 
 - Blockchain
 - iOS and Android
