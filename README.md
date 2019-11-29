@@ -49,6 +49,8 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[Chat SDK - Cross Platform Messaging Platform](https://chatsdk.co/)**
 
+![Chat SDK Logo](https://github.com/chat-sdk/dev/blob/master/img/chatsdk.png)
+
 - Cross platform instant messagin app
 - Availble for iOS, Android, Web
 - Admin support panel (Node.js)
@@ -56,6 +58,8 @@ We've developed many apps over the years. Here are some of our favourites:
 - Over 50k downloads 
 
 **[C@R](https://car-mobile.com/)** 
+
+![C@R Logo](https://github.com/chat-sdk/dev/blob/master/img/c_at_r.png)
 
 - Communication app for drivers
 - Available for iOS, Android
@@ -73,7 +77,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[Parlor](http://parlor.me/) - ([iOS](https://apps.apple.com/us/app/parlor/id426482708) | [Android](https://play.google.com/store/apps/details?id=me.parlor))** 
 
-![Elixxir Logo](https://github.com/chat-sdk/dev/blob/master/img/parlor.png)
+![Parlor Logo](https://github.com/chat-sdk/dev/blob/master/img/parlor.png)
 
 - Social Talking App
 - iOS and Android
@@ -82,7 +86,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[Panion](https://panion.com/) - ([iOS](https://apps.apple.com/app/app-store/id1155936628) | [Android](https://play.google.com/store/apps/details?id=com.panion_react_native))**
  
-![Elixxir Logo](https://github.com/chat-sdk/dev/blob/master/img/panion.png)
+![Panion Logo](https://github.com/chat-sdk/dev/blob/master/img/panion.png)
  
 - Common Interest App
 - iOS and Android
@@ -90,6 +94,8 @@ We've developed many apps over the years. Here are some of our favourites:
 - Extensive consulting provided
 
 **[INDX01](https://apps.apple.com/us/app/indx01/id1265222713)**
+
+![INDX01 Logo](https://github.com/chat-sdk/dev/blob/master/img/indx01.png)
  
 - Crypto Coin Social Manager
 - iOS
