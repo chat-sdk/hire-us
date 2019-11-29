@@ -27,17 +27,26 @@ If you want to build a Firebase app, hire the experts. We maintain one of the mo
 
 ### The Team
 
+![Ben](https://github.com/chat-sdk/dev/blob/master/img/ben.png)
+
 - Ben: Senior developer (founder)
 	- 10+ years development experience
 	- iOS, Android, JavaScript, PHP, HTML, CSS
+	- [LinkedIn](https://www.linkedin.com/in/ben-smiley/), [Github](https://github.com/bensmiley), [Stack Overflow](https://stackoverflow.com/users/997293/ben-smiley)
+
+![Pepe](https://github.com/chat-sdk/dev/blob/master/img/pepe.png)
 
 - Pepe: Senior developer
 	- 10+ years development experience
 	- iOS, Android, JavaScript, Node.js, HTML, CSS
+	- [LinkedIn](https://www.linkedin.com/in/pepebecker/), [Github](https://github.com/pepebecker), [Stack Overflow](https://stackoverflow.com/cv/pepebecker)
+
+![Conrad](https://github.com/chat-sdk/dev/blob/master/img/conrad.png)
 
 - Conrad Martin: developer
 	- 2 years development experience
 	- Android 	
+	- [Github](https://github.com/thecmart)
 
 ### Why us?
 
@@ -81,6 +90,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 - Social Talking App
 - iOS and Android
+- Over 600k DAU
 - Firebase realtime database
 - Extensive consulting provided
 
