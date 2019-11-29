@@ -66,6 +66,7 @@ We've developed many apps over the years. Here are some of our favourites:
 **[Elixxir](https://elixxir.io/)** 
 
 ![Elixxir Logo](https://github.com/chat-sdk/dev/blob/master/img/elixxir.png)
+<img style="float: right" src="https://github.com/chat-sdk/dev/blob/master/img/elixxir.png">
 
 - Blockchain
 - iOS and Android
