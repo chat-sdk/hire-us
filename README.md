@@ -65,7 +65,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[Elixxir](https://elixxir.io/)** 
 
-<img style="float: right" src="https://github.com/chat-sdk/dev/blob/master/img/elixxir.png">
+![Elixxir Logo](https://github.com/chat-sdk/dev/blob/master/img/elixxir.png)
 
 - Blockchain
 - iOS and Android
@@ -73,12 +73,16 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[Parlor](http://parlor.me/) - ([iOS](https://apps.apple.com/us/app/parlor/id426482708) | [Android](https://play.google.com/store/apps/details?id=me.parlor))** 
 
+![Elixxir Logo](https://github.com/chat-sdk/dev/blob/master/img/parlor.png)
+
 - Social Talking App
 - iOS and Android
 - Firebase realtime database
 - Extensive consulting provided
 
 **[Panion](https://panion.com/) - ([iOS](https://apps.apple.com/app/app-store/id1155936628) | [Android](https://play.google.com/store/apps/details?id=com.panion_react_native))**
+ 
+![Elixxir Logo](https://github.com/chat-sdk/dev/blob/master/img/panion.png)
  
 - Common Interest App
 - iOS and Android
