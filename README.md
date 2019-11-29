@@ -10,7 +10,7 @@ If you want to build a Firebase app, hire the experts. We maintain one of the mo
   - Web
   - Node.js
 - Firebase Realtime database and Firestore
-- Over 5 years experience working with Firebase
+- Over 6 years experience working with Firebase
 - Experience Scaling to millions of monthly users
 - Firebase data optimisation
 - Real-time messaging
@@ -25,32 +25,38 @@ If you want to build a Firebase app, hire the experts. We maintain one of the mo
 - We can extend your app to add new features
 - We can support you to add instant messaging to your app using WebRTC
 
+### Why us?
+
+We are experts with Firebase. We have a proven track record of writing efficient, well designed code. All of our code is available on Github for you to review. Our work speaks for us. We have specific technical skills at building realtime apps and specialise in social and commuincation apps. We will build your app on time and within budget. Get a quote by contacting us below. 
+
+### Get a quote for your next project now
+
+- [Email](mailto:team@sdk.chat)
+- [Slack](https://join.slack.com/t/chat-sdk/shared_invite/enQtNjIxMTcxODA5NzgzLTI3NGZlOWRlM2ZmOGYwMDBmOWIzMmIzMjQ4NWM2YWVkMzQ1Y2YyNTA4MTk4MDkwMjFmOTIyNjVkNjQyMDE2MzE)
+- [WhatsApp](https://chat.whatsapp.com/J3mGABgf2wEEjN3eUSHDmh)
+
 ### The Team
 
-![Ben](https://github.com/chat-sdk/dev/blob/master/img/ben.png)
+![Ben](https://raw.githubusercontent.com/chat-sdk/dev/master/img/benc.png)
 
 - Ben: Senior developer (founder)
 	- 10+ years development experience
 	- iOS, Android, JavaScript, PHP, HTML, CSS
 	- [LinkedIn](https://www.linkedin.com/in/ben-smiley/), [Github](https://github.com/bensmiley), [Stack Overflow](https://stackoverflow.com/users/997293/ben-smiley)
 
-![Pepe](https://github.com/chat-sdk/dev/blob/master/img/pepe.png)
+![Pepe](https://raw.githubusercontent.com/chat-sdk/dev/master/img/pepec.png)
 
 - Pepe: Senior developer
 	- 10+ years development experience
 	- iOS, Android, JavaScript, Node.js, HTML, CSS
 	- [LinkedIn](https://www.linkedin.com/in/pepebecker/), [Github](https://github.com/pepebecker), [Stack Overflow](https://stackoverflow.com/cv/pepebecker)
 
-![Conrad](https://github.com/chat-sdk/dev/blob/master/img/conrad.png)
+![Conrad](https://raw.githubusercontent.com/chat-sdk/dev/master/img/conradc.png)
 
 - Conrad Martin: developer
 	- 2 years development experience
 	- Android 	
 	- [Github](https://github.com/thecmart)
-
-### Why us?
-
-
 
 ### Our Projects
 
@@ -58,7 +64,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[Chat SDK - Cross Platform Messaging Platform](https://chatsdk.co/)**
 
-![Chat SDK Logo](https://github.com/chat-sdk/dev/blob/master/img/chatsdk.png)
+![Chat SDK Logo](https://raw.githubusercontent.com/chat-sdk/dev/master/img/chatsdk.png)
 
 - Cross platform instant messagin app
 - Availble for iOS, Android, Web
@@ -68,7 +74,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[C@R](https://car-mobile.com/)** 
 
-![C@R Logo](https://github.com/chat-sdk/dev/blob/master/img/c_at_r.png)
+![C@R Logo](https://raw.githubusercontent.com/chat-sdk/dev/master/img/c_at_r.png)
 
 - Communication app for drivers
 - Available for iOS, Android
@@ -78,7 +84,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[Elixxir](https://elixxir.io/)** 
 
-![Elixxir Logo](https://github.com/chat-sdk/dev/blob/master/img/elixxir.png)
+![Elixxir Logo](https://raw.githubusercontent.com/chat-sdk/dev/master/img/elixxir.png)
 
 - Blockchain
 - iOS and Android
@@ -86,7 +92,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[Parlor](http://parlor.me/) - ([iOS](https://apps.apple.com/us/app/parlor/id426482708) | [Android](https://play.google.com/store/apps/details?id=me.parlor))** 
 
-![Parlor Logo](https://github.com/chat-sdk/dev/blob/master/img/parlor.png)
+![Parlor Logo](https://raw.githubusercontent.com/chat-sdk/dev/master/img/parlor.png)
 
 - Social Talking App
 - iOS and Android
@@ -96,7 +102,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[Panion](https://panion.com/) - ([iOS](https://apps.apple.com/app/app-store/id1155936628) | [Android](https://play.google.com/store/apps/details?id=com.panion_react_native))**
  
-![Panion Logo](https://github.com/chat-sdk/dev/blob/master/img/panion.png)
+![Panion Logo](https://raw.githubusercontent.com/chat-sdk/dev/master/img/panion.png)
  
 - Common Interest App
 - iOS and Android
@@ -105,7 +111,7 @@ We've developed many apps over the years. Here are some of our favourites:
 
 **[INDX01](https://apps.apple.com/us/app/indx01/id1265222713)**
 
-![INDX01 Logo](https://github.com/chat-sdk/dev/blob/master/img/indx01.png)
+![INDX01 Logo](https://raw.githubusercontent.com/chat-sdk/dev/master/img/indx01.png)
  
 - Crypto Coin Social Manager
 - iOS
