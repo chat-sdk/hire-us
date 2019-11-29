@@ -1,6 +1,6 @@
 ## Hire our team to build your next app
 
-If you want to build a Firebase app, hire the experts. We maintain one of the most popular open source Firebase projects around with over 1k Github stars ⭐⭐⭐ and **hundreds of thousands of users**. 
+If you want to build a Firebase app, hire the experts. We maintain one of the most popular open source Firebase projects around with over 1k Github stars ⭐⭐⭐ and hundreds of thousands of users. 
 
 ### Our skills
 
