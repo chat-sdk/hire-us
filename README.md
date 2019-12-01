@@ -98,7 +98,7 @@ We've developed many apps over the years. Here are some of our favourites:
 - iOS and Android
 - Extensive consulting provided
 
-**[Parlor](http://parlor.me/)** - ([iOS](https://apps.apple.com/us/app/parlor/id426482708) | [Android](https://play.google.com/store/apps/details?id=me.parlor)) 
+**[Parlor](http://parlor.me/)** - ([iOS](https://apps.apple.com/us/app/parlor/id426482708) / [Android](https://play.google.com/store/apps/details?id=me.parlor)) 
 
 ![Parlor Logo](https://raw.githubusercontent.com/chat-sdk/dev/master/img/parlor.png)
 
@@ -108,7 +108,7 @@ We've developed many apps over the years. Here are some of our favourites:
 - Firebase realtime database
 - Extensive consulting provided
 
-**[Panion](https://panion.com/)** - ([iOS](https://apps.apple.com/app/app-store/id1155936628) | [Android](https://play.google.com/store/apps/details?id=com.panion_react_native))
+**[Panion](https://panion.com/)** - ([iOS](https://apps.apple.com/app/app-store/id1155936628) / [Android](https://play.google.com/store/apps/details?id=com.panion_react_native))
  
 ![Panion Logo](https://raw.githubusercontent.com/chat-sdk/dev/master/img/panion.png)
  
